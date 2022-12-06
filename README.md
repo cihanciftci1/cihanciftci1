@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cihan CIFTCI</h1>
-<h3 align="center">A passionate person learning to be a Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Java Spring Boot, Reactjs**
 
 - 📫 How to reach me **cihanciftci40@gmail.com**
 
